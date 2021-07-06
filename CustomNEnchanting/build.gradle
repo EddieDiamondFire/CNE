@@ -14,7 +14,7 @@ repositories{
     }
 }
 dependencies{
-    implementation 'org.spigotmc:spigot-api:1.16.4-R0.1-SNAPSHOT'
+    implementation 'org.spigotmc:spigot-api:1.17.1-R0.1-SNAPSHOT'
     implementation 'com.comphenix.protocol:ProtocolLib:4.5.1'
     implementation 'com.github.milkbowl:VaultAPI:1.7'
 }
